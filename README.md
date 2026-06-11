@@ -1,6 +1,7 @@
 # AutoBeale
 AutoBeale: code to calculate loads by means of Beale's Ratio Estimator.
 
+	> [!NOTE] This is not my code! I am posting it here because I think it is a piece of software that deserves to be remembered. AutoBeale was used in many load estimations around the Great Lakes.
 
 The following information is from Peter Richards, the original author of this version of the AutoBeale estimator software:
 
